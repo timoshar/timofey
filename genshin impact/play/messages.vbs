@@ -1,0 +1,1 @@
+x = msgbox("genshin impact dowloand", 0+16, "VIRUS")
